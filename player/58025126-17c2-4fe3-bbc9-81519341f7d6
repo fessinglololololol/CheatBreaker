@@ -6,7 +6,7 @@
          "name":"protected",
          "type":"cape",
          "scale":0.16,
-         "active":false,
+         "active":true,
          "resourceLocation":"https://raw.githubusercontent.com/ArcaneCiCi/ArcaneClient/master/cosmetics/protected.png"
 },
       "banned":{ 
