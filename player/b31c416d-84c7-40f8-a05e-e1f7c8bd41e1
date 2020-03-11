@@ -23,13 +23,6 @@
          "active":false,
          "resourceLocation":"https://raw.githubusercontent.com/ArcaneCiCi/ArcaneClient/master/cosmetics/twitch.png"
 },
-      "pink":{ 
-         "name":"pink",
-         "type":"dragon_wings",
-         "scale":0.15,
-         "active":true,
-         "resourceLocation":"https://raw.githubusercontent.com/ArcaneCiCi/ArcaneClient/master/cosmetics/pink.png"
-},
       "youtube":{ 
          "name":"youtube",
          "type":"cape",
