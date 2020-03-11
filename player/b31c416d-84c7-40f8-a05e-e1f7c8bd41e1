@@ -2,12 +2,12 @@
    "uuid":"b31c416d-84c7-40f8-a05e-e1f7c8bd41e1",
    "username":null,
    "cosmetics":{ 
-      "acwhite":{ 
-         "name":"acwhite",
+      "protected":{ 
+         "name":"protected",
          "type":"cape",
          "scale":0.16,
          "active":true,
-         "resourceLocation":"https://raw.githubusercontent.com/ArcaneCiCi/ArcaneClient/master/cosmetics/acwhite.png"
+         "resourceLocation":"https://raw.githubusercontent.com/ArcaneCiCi/ArcaneClient/master/cosmetics/protected.png"
 },
       "banned":{ 
          "name":"banned",
