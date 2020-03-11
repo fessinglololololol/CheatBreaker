@@ -3,11 +3,11 @@
    "username":null,
    "cosmetics":{ 
       "protected":{ 
-         "name":"protected",
+         "name":"acwhite",
          "type":"cape",
          "scale":0.16,
          "active":true,
-         "resourceLocation":"https://raw.githubusercontent.com/ArcaneCiCi/ArcaneClient/master/cosmetics/protected.png"
+         "resourceLocation":"https://raw.githubusercontent.com/ArcaneCiCi/ArcaneClient/master/cosmetics/acwhite.png"
 },
       "banned":{ 
          "name":"banned",
@@ -15,6 +15,13 @@
          "scale":0.16,
          "active":false,
          "resourceLocation":"https://raw.githubusercontent.com/ArcaneCiCi/ArcaneClient/master/cosmetics/banned.png"
+},
+      "protected":{ 
+         "name":"protected",
+         "type":"cape",
+         "scale":0.16,
+         "active":false,
+         "resourceLocation":"https://raw.githubusercontent.com/ArcaneCiCi/ArcaneClient/master/cosmetics/protected.png"
 },
       "twitch":{ 
          "name":"twitch",
@@ -36,6 +43,13 @@
          "scale":0.15,
          "active":true,
          "resourceLocation":"https://raw.githubusercontent.com/ArcaneCiCi/ArcaneClient/master/cosmetics/bone.png"
+},
+      "black":{ 
+         "name":"black",
+         "type":"dragon_wings",
+         "scale":0.15,
+         "active":true,
+         "resourceLocation":"https://raw.githubusercontent.com/ArcaneCiCi/ArcaneClient/master/cosmetics/black.png"
       }
    }
 }
