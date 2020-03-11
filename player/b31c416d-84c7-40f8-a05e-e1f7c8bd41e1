@@ -16,13 +16,6 @@
          "active":false,
          "resourceLocation":"https://raw.githubusercontent.com/ArcaneCiCi/ArcaneClient/master/cosmetics/banned.png"
 },
-      "protected":{ 
-         "name":"protected",
-         "type":"cape",
-         "scale":0.16,
-         "active":false,
-         "resourceLocation":"https://raw.githubusercontent.com/ArcaneCiCi/ArcaneClient/master/cosmetics/protected.png"
-},
       "twitch":{ 
          "name":"twitch",
          "type":"cape",
@@ -48,7 +41,7 @@
          "name":"black",
          "type":"dragon_wings",
          "scale":0.15,
-         "active":true,
+         "active":false,
          "resourceLocation":"https://raw.githubusercontent.com/ArcaneCiCi/ArcaneClient/master/cosmetics/black.png"
       }
    }
