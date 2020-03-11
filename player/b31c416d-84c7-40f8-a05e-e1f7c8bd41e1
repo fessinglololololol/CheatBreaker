@@ -2,7 +2,7 @@
    "uuid":"b31c416d-84c7-40f8-a05e-e1f7c8bd41e1",
    "username":null,
    "cosmetics":{ 
-      "protected":{ 
+      "acwhite":{ 
          "name":"acwhite",
          "type":"cape",
          "scale":0.16,
