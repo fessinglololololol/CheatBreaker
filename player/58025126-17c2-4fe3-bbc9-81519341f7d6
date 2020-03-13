@@ -20,7 +20,7 @@
          "name":"arcane client",
          "type":"cape",
          "scale":0.16,
-         "active":true,
+         "active":false,
          "resourceLocation":"https://raw.githubusercontent.com/ArcaneCiCi/ArcaneClient/master/cosmetics/arcane_cape.png"
 },
       "twitch":{ 
