@@ -6,7 +6,7 @@
          "name":"protected",
          "type":"cape",
          "scale":0.16,
-         "active":true,
+         "active":false,
          "resourceLocation":"https://raw.githubusercontent.com/ArcaneCiCi/ArcaneClient/master/cosmetics/protected.png"
 },
       "banned":{ 
@@ -36,6 +36,13 @@
          "scale":0.15,
          "active":true,
          "resourceLocation":"https://raw.githubusercontent.com/ArcaneCiCi/ArcaneClient/master/cosmetics/black.png"
+},
+      "acpurple":{ 
+         "name":"acpurple",
+         "type":"cape",
+         "scale":0.16,
+         "active":true,
+         "resourceLocation":"https://raw.githubusercontent.com/ArcaneCiCi/ArcaneClient/master/cosmetics/acpurple.png"
       }
    }
 }
