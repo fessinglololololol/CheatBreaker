@@ -2,21 +2,21 @@
    "uuid":"58025126-17c2-4fe3-bbc9-81519341f7d6",
    "username":null,
    "cosmetics":{ 
-      "black":{ 
+      "Black Wings":{ 
          "name":"Black Wings",
          "type":"dragon_wings",
          "scale":0.14,
          "active":false,
          "resourceLocation":"black"
 },
-      "blue":{ 
+      "Blue Wings":{ 
          "name":"Blue Wings",
          "type":"dragon_wings",
          "scale":0.14,
          "active":false,
          "resourceLocation":"blue"
 },
-      "bone":{ 
+      "Bone Wings":{ 
          "name":"Bone Wings",
          "type":"dragon_wings",
          "scale":0.14,
