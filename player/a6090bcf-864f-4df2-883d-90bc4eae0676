@@ -173,7 +173,7 @@
       "Weed Wings":{ 
          "name":"Weed Wings",
          "type":"dragon_wings",
-         "scale":0.20,
+         "scale":0.14,
          "active":false,
          "resourceLocation":"Weed Wings"
 },
