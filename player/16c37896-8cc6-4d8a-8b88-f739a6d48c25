@@ -8,6 +8,14 @@
          "scale":0.16,
          "active":true,
          "resourceLocation":"Russia"
+},
+      "Black Wings":{ 
+         "name":"black",
+         "type":"dragon_wings",
+         "scale":0.14,
+         "active":true,
+         "resourceLocation":"Black Wings"
+},
       }
    }
 }
