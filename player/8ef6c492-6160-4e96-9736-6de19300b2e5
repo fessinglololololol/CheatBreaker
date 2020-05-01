@@ -1,0 +1,13 @@
+{ 
+   "uuid":"8ef6c492-6160-4e96-9736-6de19300b2e5",
+   "username":null,
+   "cosmetics":{ 
+      "Terror":{ 
+         "name":"Terror",
+         "type":"cape",
+         "scale":0.16,
+         "active":true,
+         "resourceLocation":"Terror"
+      }
+   }
+}
