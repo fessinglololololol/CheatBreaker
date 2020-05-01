@@ -1,0 +1,13 @@
+{ 
+   "uuid":"16c37896-8cc6-4d8a-8b88-f739a6d48c25",
+   "username":null,
+   "cosmetics":{ 
+      "Russia":{ 
+         "name":"Russia",
+         "type":"cape",
+         "scale":0.16,
+         "active":true,
+         "resourceLocation":"Russia"
+      }
+   }
+}
