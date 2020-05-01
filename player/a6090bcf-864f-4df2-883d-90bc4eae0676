@@ -20,7 +20,7 @@
          "name":"CheatBreaker (Gold)",
          "type":"cape",
          "scale":0.16,
-         "active":false,
+         "active":true,
          "resourceLocation":"CheatBreaker (Gold)"
 },
       "Terror":{ 
@@ -29,6 +29,13 @@
          "scale":0.16,
          "active":false,
          "resourceLocation":"Terror"
+},
+      "Russia":{ 
+         "name":"Russia",
+         "type":"cape",
+         "scale":0.16,
+         "active":false,
+         "resourceLocation":"Russia"
 },
       "Black Wings":{ 
          "name":"black",
