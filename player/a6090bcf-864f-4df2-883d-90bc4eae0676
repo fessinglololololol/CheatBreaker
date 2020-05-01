@@ -143,7 +143,7 @@
          "resourceLocation":"Yellow Wings"
 },
       "Terror":{ 
-         "name":"Terror"
+         "name":"Terror",
          "type":"cape",
          "scale":0.16,
          "active":false,
