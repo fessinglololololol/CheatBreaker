@@ -2,6 +2,27 @@
    "uuid":"58025126-17c2-4fe3-bbc9-81519341f7d6",
    "username":null,
    "cosmetics":{ 
+      "CheatBreaker (Red)":{ 
+         "name":"CheatBreaker (Red)",
+         "type":"cape",
+         "scale":0.16,
+         "active":false,
+         "resourceLocation":"CheatBreaker (Red)"
+},
+      "CheatBreaker (White)":{ 
+         "name":"CheatBreaker (White)",
+         "type":"cape",
+         "scale":0.16,
+         "active":false,
+         "resourceLocation":"CheatBreaker (White)"
+},
+      "CheatBreaker (Gold)":{ 
+         "name":"CheatBreaker (Gold)",
+         "type":"cape",
+         "scale":0.16,
+         "active":false,
+         "resourceLocation":"CheatBreaker (Gold)"
+},
       "Terror":{ 
          "name":"Terror",
          "type":"cape",
