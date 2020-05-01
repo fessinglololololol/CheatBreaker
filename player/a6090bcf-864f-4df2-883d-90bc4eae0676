@@ -142,12 +142,12 @@
          "active":false,
          "resourceLocation":"Yellow Wings"
 },
-      "banned":{ 
-         "name":"banned",
+      "Terror":{ 
+         "name":"Terror"
          "type":"cape",
          "scale":0.16,
          "active":false,
-         "resourceLocation":"https://raw.githubusercontent.com/ArcaneCiCi/ArcaneClient/master/cosmetics/banned.png"
+         "resourceLocation":"Terror"
       }
    }
 }
