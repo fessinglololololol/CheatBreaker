@@ -3,25 +3,32 @@
    "username":null,
    "cosmetics":{ 
       "Black Wings":{ 
-         "name":"Black Wings",
+         "name":"black",
          "type":"dragon_wings",
          "scale":0.14,
          "active":false,
          "resourceLocation":"black"
 },
       "Blue Wings":{ 
-         "name":"Blue Wings",
+         "name":"blue",
          "type":"dragon_wings",
          "scale":0.14,
          "active":false,
-         "resourceLocation":"Blue Wings"
+         "resourceLocation":"blue"
 },
       "Bone Wings":{ 
-         "name":"Bone Wings",
+         "name":"bone",
          "type":"dragon_wings",
          "scale":0.14,
          "active":false,
          "resourceLocation":"bone"
+},
+      "Butterfly Wings (Blue)":{ 
+         "name":"Butterfly Wings (Blue)",
+         "type":"dragon_wings",
+         "scale":0.14,
+         "active":false,
+         "resourceLocation":"butterfly_1"
 },
       "banned":{ 
          "name":"banned",
