@@ -2,6 +2,13 @@
    "uuid":"58025126-17c2-4fe3-bbc9-81519341f7d6",
    "username":null,
    "cosmetics":{ 
+      "Terror":{ 
+         "name":"Terror",
+         "type":"cape",
+         "scale":0.16,
+         "active":false,
+         "resourceLocation":"Terror"
+},
       "Black Wings":{ 
          "name":"black",
          "type":"dragon_wings",
@@ -141,13 +148,6 @@
          "scale":0.14,
          "active":false,
          "resourceLocation":"Yellow Wings"
-},
-      "Terror":{ 
-         "name":"Terror",
-         "type":"cape",
-         "scale":0.16,
-         "active":false,
-         "resourceLocation":"Terror"
       }
    }
 }
