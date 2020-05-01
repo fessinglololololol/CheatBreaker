@@ -44,6 +44,13 @@
          "active":false,
          "resourceLocation":"YouTube Cape (Gold)"
 },
+      "CavePvP (Map 1)":{ 
+         "name":"CavePvP (Map 1)",
+         "type":"cape",
+         "scale":0.16,
+         "active":false,
+         "resourceLocation":"CavePvP (Map 1)"
+},
       "Terror":{ 
          "name":"Terror",
          "type":"cape",
@@ -57,13 +64,6 @@
          "scale":0.16,
          "active":false,
          "resourceLocation":"Russia"
-},
-      "CavePvP (Map 1)":{ 
-         "name":"CavePvP (Map 1)",
-         "type":"cape",
-         "scale":0.16,
-         "active":false,
-         "resourceLocation":"CavePvP (Map 1)"
 },
       "Black Wings":{ 
          "name":"black",
