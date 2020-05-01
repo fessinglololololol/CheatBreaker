@@ -10,7 +10,7 @@
          "resourceLocation":"Black Wings"
 },
       "Blue Wings":{ 
-         "name":"blue",
+         "name":"Blue Wings",
          "type":"dragon_wings",
          "scale":0.14,
          "active":false,
