@@ -30,6 +30,13 @@
          "active":false,
          "resourceLocation":"butterfly_1"
 },
+      "Butterfly Wings (Pink)":{ 
+         "name":"Butterfly Wings (Pink)",
+         "type":"dragon_wings",
+         "scale":0.14,
+         "active":false,
+         "resourceLocation":"butterfly_1"
+},
       "banned":{ 
          "name":"banned",
          "type":"cape",
