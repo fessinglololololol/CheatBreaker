@@ -37,6 +37,13 @@
          "active":false,
          "resourceLocation":"butterfly_1"
 },
+      "Butterfly Wings (Rainbow)":{ 
+         "name":"Butterfly Wings (Rainbow)",
+         "type":"dragon_wings",
+         "scale":0.14,
+         "active":false,
+         "resourceLocation":"Butterfly Wings (Rainbow)"
+},
       "banned":{ 
          "name":"banned",
          "type":"cape",
@@ -57,13 +64,6 @@
          "scale":0.16,
          "active":false,
          "resourceLocation":"https://raw.githubusercontent.com/ArcaneCiCi/ArcaneClient/master/cosmetics/youtube.png"
-},
-      "black":{ 
-         "name":"black",
-         "type":"dragon_wings",
-         "scale":0.15,
-         "active":true,
-         "resourceLocation":"https://raw.githubusercontent.com/ArcaneCiCi/ArcaneClient/master/cosmetics/black.png"
       }
    }
 }
