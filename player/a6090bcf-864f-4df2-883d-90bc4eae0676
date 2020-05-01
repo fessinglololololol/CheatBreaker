@@ -37,6 +37,13 @@
          "active":false,
          "resourceLocation":"Russia"
 },
+      "cave":{ 
+         "name":"cave",
+         "type":"cape",
+         "scale":0.16,
+         "active":false,
+         "resourceLocation":"cave"
+},
       "Black Wings":{ 
          "name":"black",
          "type":"dragon_wings",
