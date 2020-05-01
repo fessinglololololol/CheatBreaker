@@ -23,6 +23,13 @@
          "active":true,
          "resourceLocation":"CheatBreaker (Gold)"
 },
+      "YouTube Cape (Red)":{ 
+         "name":"YouTube Cape (Red)",
+         "type":"cape",
+         "scale":0.16,
+         "active":false,
+         "resourceLocation":"YouTube Cape (Red)"
+},
       "Terror":{ 
          "name":"Terror",
          "type":"cape",
