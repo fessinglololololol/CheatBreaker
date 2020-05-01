@@ -7,35 +7,35 @@
          "type":"dragon_wings",
          "scale":0.14,
          "active":false,
-         "resourceLocation":"black"
+         "resourceLocation":"Black Wings"
 },
       "Blue Wings":{ 
          "name":"blue",
          "type":"dragon_wings",
          "scale":0.14,
          "active":false,
-         "resourceLocation":"blue"
+         "resourceLocation":"Blue Wings"
 },
       "Bone Wings":{ 
          "name":"bone",
          "type":"dragon_wings",
          "scale":0.14,
          "active":false,
-         "resourceLocation":"bone"
+         "resourceLocation":"Bone Wings"
 },
       "Butterfly Wings (Blue)":{ 
          "name":"Butterfly Wings (Blue)",
          "type":"dragon_wings",
          "scale":0.14,
          "active":false,
-         "resourceLocation":"butterfly_1"
+         "resourceLocation":"Butterfly Wings (Blue)"
 },
       "Butterfly Wings (Pink)":{ 
          "name":"Butterfly Wings (Pink)",
          "type":"dragon_wings",
          "scale":0.14,
          "active":false,
-         "resourceLocation":"butterfly_1"
+         "resourceLocation":"Butterfly Wings (Pink)"
 },
       "Butterfly Wings (Rainbow)":{ 
          "name":"Butterfly Wings (Rainbow)",
@@ -44,26 +44,110 @@
          "active":false,
          "resourceLocation":"Butterfly Wings (Rainbow)"
 },
+      "Butterfly Wings (Yellow)":{ 
+         "name":"Butterfly Wings (Yellow)",
+         "type":"dragon_wings",
+         "scale":0.14,
+         "active":false,
+         "resourceLocation":"Butterfly Wings (Yellow)"
+},
+      "Dark Blue Wings":{ 
+         "name":"Dark Blue Wings",
+         "type":"dragon_wings",
+         "scale":0.14,
+         "active":false,
+         "resourceLocation":"Dark Blue Wings"
+},
+      "Green Wings":{ 
+         "name":"Green Wings",
+         "type":"dragon_wings",
+         "scale":0.14,
+         "active":false,
+         "resourceLocation":"Green Wings"
+},
+      "Indigo Wings":{ 
+         "name":"Indigo Wings",
+         "type":"dragon_wings",
+         "scale":0.14,
+         "active":false,
+         "resourceLocation":"Indigo Wings"
+},
+      "Light Blue Wings":{ 
+         "name":"Light Blue Wings",
+         "type":"dragon_wings",
+         "scale":0.14,
+         "active":false,
+         "resourceLocation":"Light Blue Wings"
+},
+      "Light Pink Wings":{ 
+         "name":"Light Pink Wings",
+         "type":"dragon_wings",
+         "scale":0.14,
+         "active":false,
+         "resourceLocation":"Light Pink Wings"
+},
+      "Mint Wings":{ 
+         "name":"Mint Wings",
+         "type":"dragon_wings",
+         "scale":0.14,
+         "active":false,
+         "resourceLocation":"Mint Wings"
+},
+      "Orange Wings":{ 
+         "name":"Orange Wings",
+         "type":"dragon_wings",
+         "scale":0.14,
+         "active":false,
+         "resourceLocation":"Orange Wings"
+},
+      "Pink Wings":{ 
+         "name":"Pink Wings",
+         "type":"dragon_wings",
+         "scale":0.14,
+         "active":false,
+         "resourceLocation":"Pink Wings"
+},
+      "Purple Wings":{ 
+         "name":"Purple Wings",
+         "type":"dragon_wings",
+         "scale":0.14,
+         "active":false,
+         "resourceLocation":"Purple Wings"
+},
+      "Red Wings":{ 
+         "name":"Red Wings",
+         "type":"dragon_wings",
+         "scale":0.14,
+         "active":false,
+         "resourceLocation":"Red Wings"
+},
+      "Turquoise Wings":{ 
+         "name":"Turquoise Wings",
+         "type":"dragon_wings",
+         "scale":0.14,
+         "active":false,
+         "resourceLocation":"Turquoise Wings"
+},
+      "Weed Wings":{ 
+         "name":"Weed Wings",
+         "type":"dragon_wings",
+         "scale":0.14,
+         "active":false,
+         "resourceLocation":"Weed Wings"
+},
+      "Yellow Wings":{ 
+         "name":"Yellow Wings",
+         "type":"dragon_wings",
+         "scale":0.14,
+         "active":false,
+         "resourceLocation":"Yellow Wings"
+},
       "banned":{ 
          "name":"banned",
          "type":"cape",
          "scale":0.16,
          "active":false,
          "resourceLocation":"https://raw.githubusercontent.com/ArcaneCiCi/ArcaneClient/master/cosmetics/banned.png"
-},
-      "twitch":{ 
-         "name":"twitch",
-         "type":"cape",
-         "scale":0.16,
-         "active":false,
-         "resourceLocation":"https://raw.githubusercontent.com/ArcaneCiCi/ArcaneClient/master/cosmetics/twitch.png"
-},
-      "youtube":{ 
-         "name":"youtube",
-         "type":"cape",
-         "scale":0.16,
-         "active":false,
-         "resourceLocation":"https://raw.githubusercontent.com/ArcaneCiCi/ArcaneClient/master/cosmetics/youtube.png"
       }
    }
 }
