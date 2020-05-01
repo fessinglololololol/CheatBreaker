@@ -37,12 +37,12 @@
          "active":false,
          "resourceLocation":"Russia"
 },
-      "cave":{ 
-         "name":"cave",
+      "CavePvP (Map 1)":{ 
+         "name":"CavePvP (Map 1)",
          "type":"cape",
          "scale":0.16,
          "active":false,
-         "resourceLocation":"cave"
+         "resourceLocation":"CavePvP (Map 1)"
 },
       "Black Wings":{ 
          "name":"black",
