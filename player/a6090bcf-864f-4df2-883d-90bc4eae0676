@@ -30,6 +30,20 @@
          "active":false,
          "resourceLocation":"YouTube Cape (Red)"
 },
+      "YouTube Cape (White)":{ 
+         "name":"YouTube Cape (White)",
+         "type":"cape",
+         "scale":0.16,
+         "active":false,
+         "resourceLocation":"YouTube Cape (White)"
+},
+      "YouTube Cape (Gold)":{ 
+         "name":"YouTube Cape (Gold)",
+         "type":"cape",
+         "scale":0.16,
+         "active":false,
+         "resourceLocation":"YouTube Cape (Gold)"
+},
       "Terror":{ 
          "name":"Terror",
          "type":"cape",
