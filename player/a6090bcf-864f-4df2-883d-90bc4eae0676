@@ -14,7 +14,7 @@
          "type":"dragon_wings",
          "scale":0.14,
          "active":false,
-         "resourceLocation":"blue"
+         "resourceLocation":"Blue Wings"
 },
       "Bone Wings":{ 
          "name":"Bone Wings",
